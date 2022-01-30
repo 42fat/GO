@@ -96,7 +96,4 @@ func checkError(err error) {
 	}
 }
 
-func flippingBits(n int64) int64 {
-	a := ^n
-	return a
-}
+
