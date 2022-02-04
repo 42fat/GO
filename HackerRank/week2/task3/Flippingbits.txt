@@ -1,0 +1,1 @@
+You are provided with a list of 32-bit unsigned integers. You should output a list of unsigned integers obtained by inverting the bits in their binary representation (that is, the unset bits should be set, and the set ones should be set).
